@@ -27,7 +27,7 @@ body::before {
   height: 160%;
   background:
       radial-gradient(circle at center, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)),
-      url('image/welcome.jpg');
+      url('welcome(1).jpg');
   background-blend-mode: normal, color;
   background-repeat: no-repeat;
   filter: grayscale(100%);
